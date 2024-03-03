@@ -60,6 +60,10 @@ h6,
     font-weight: 500;
 }
 
+.navbar-logo {
+    width: 100px; /* Adjust the width as needed */
+}
+
 .btn-primary,
 .btn-outline-primary:hover {
     color: var(--light);
